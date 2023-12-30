@@ -1,2 +1,2 @@
-# RealChat Application
-RealChat is chat application build with the power of MERN Stack.
+# ChatSphere
+ChatSphere is chat application build with the power of MERN Stack.
